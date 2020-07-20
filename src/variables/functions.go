@@ -4,7 +4,7 @@ package main
 type MyFunc func() string
 
 func call(callback MyFunc) {
-	println(callback("sa"))
+	println(callback())
 }
 
 func f1() string {
