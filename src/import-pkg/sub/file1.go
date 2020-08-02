@@ -1,3 +1,4 @@
 package sub
 
-const SecondConstant = 2
+// secondConstant is constant
+var secondConstant = 2

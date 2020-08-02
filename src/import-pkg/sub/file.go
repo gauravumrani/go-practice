@@ -1,7 +1,6 @@
 package sub
 
-const FirstConstant = 10
-
+// Hot is function returns secondConstant
 func Hot() int {
-	return FirstConstant
+	return secondConstant
 }
